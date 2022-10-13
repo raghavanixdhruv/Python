@@ -1,0 +1,3 @@
+x=input("enter number x:")
+y=input("enter number y:")
+z=x+y
